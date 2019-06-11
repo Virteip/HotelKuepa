@@ -1,0 +1,71 @@
+body {
+	
+	background-color: black;
+	font-family: 'Work Sans', sans-serif;
+
+}
+
+#logo{
+	margin-left:45%;
+	margin-top:10px;
+	margin-bottom:10px;
+width:100px;
+height:100px;
+}
+
+
+nav {	
+border-radius: 10px;
+height: 130px;
+background-color: 81BEF7;
+}
+
+#opcionesmenu{
+	
+	height:20px;
+	background-color: CEE3F6;
+}
+
+ol{
+	
+	font-weight:bold;
+	list-style:none;
+}
+
+li{
+	   
+		display: inline;
+		margin:80px;
+}
+
+li a:link {
+	  text-decoration: none;
+}
+
+
+#Habitaciones{
+margin-top:15px;
+}
+
+#cajaprincipal {
+	border-radius: 10px;
+	width:900px;
+	background-color:CEE3F6;
+	margin: auto;
+}
+
+#Tipo1 {
+	height:350px;
+	width:900px;
+	background-color: CEE3F6;
+	border-top: solid 1px black;
+}
+
+form {
+	margin-top: 40px;
+	margin-left: 400px;
+}
+
+h1 {
+	text-align: center;
+}
